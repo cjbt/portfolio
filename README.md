@@ -1,4 +1,4 @@
-##README
+# README
 
 This is a read me for the **portfolio website**
 
